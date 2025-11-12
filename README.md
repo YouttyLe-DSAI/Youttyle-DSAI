@@ -53,7 +53,7 @@ Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đa
 ### 📫 Kết nối với tôi
 
 <p align="center">
-  <a href="[LINKEDIN_CUA_BAN_O_DAY]">
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boadyi2wwQr%2B%2BuzCa7SB4DQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="[WEBSITE_PORTFOLIO_CUA_BAN_O_DAY]">
