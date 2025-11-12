@@ -1,18 +1,18 @@
 # Xin chào, tôi là Lê Minh Tuấn (Youttyle-DSAI) 👋
 
 <p align="center">
-  <em>Một nhà phát triển đam mê về AI, Khoa học dữ liệu và các giải pháp đám mây.</em>
+  <em>Một sinh viên triển đam mê về AI, Khoa học dữ liệu và tích hợp các giải pháp đám mây.</em>
 </p>
 
 ---
 
 ### 🔭 Về tôi (About Me)
 
-Tôi là một lập trình viên/kỹ sư AI, hiện đang tập trung vào việc xây dựng các ứng dụng thông minh và có khả năng mở rộng. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị.
+Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đang tập trung vào việc xây dựng các ứng dụng thông minh và có khả năng mở rộng. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị.
 
-* 🌱 Tôi đang tìm hiểu sâu về: **[Điền công nghệ bạn đang học, ví dụ: Multi-Modal RAG, AWS Solutions]**
-* 💡 Tôi quan tâm đến: **[Điền sở thích, ví dụ: Xử lý ngôn ngữ tự nhiên, Thị giác máy tính]**
-* 📫 Cách liên hệ với tôi: **[Email của bạn]**
+* 🌱 Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision**
+* 💡 Tôi quan tâm đến: **Xử lý ngôn ngữ tự nhiên, Thị giác máy tính**
+* 📫 Cách liên hệ với tôi: **leminhtuan.ai.work@gmail.com**
 
 ---
 
