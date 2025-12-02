@@ -21,7 +21,7 @@ Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đa
 Đây là một số dự án tôi tự hào nhất. Bạn có thể xem chi tiết hơn trong các repo đã ghim!
 
 * **[PREDICTIVE STORM MODELING FOR ASIA](httpsv://github.com/Youttyle-DSAI/PREDICTIVE-STORM-MODELING-FOR-ASIA)**: Phân tích và dự đoán bão ở châu Á sử dụng mô hình học máy.
-* **[AWS-Analysis-Contract-Risk]([https://github.com/YouttyLe-DSAI/Agreeme.git])**: Một ứng dụng Python trên AWS để tự động phân tích rủi ro hợp đồng.
+* **[TrustLegal---AI-Powered-Contract-Analysis-Platform]([https://github.com/YouttyLe-DSAI/Agreeme.git])**: Một ứng dụng Python trên AWS để tự động phân tích rủi ro hợp đồng.
 * **[Multi-Search-Retrieval-Big-Data](httpsv://github.com/Youttyle-DSAI/Multi-Search-Retrieval-Big-Data)**: Hệ thống tìm kiếm và truy xuất đa phương tiện cho dữ liệu lớn.
 * **[Medicinal Plant Recognition](httpsv://github.com/Youttyle-DSAI/Medicinal-Plant-Recognition-And-Suggestion)**: Nhận dạng cây thuốc và đưa ra gợi ý.
 
