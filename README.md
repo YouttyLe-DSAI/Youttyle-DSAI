@@ -13,6 +13,7 @@ Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đa
 * 🌱 Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision**
 * 💡 Tôi quan tâm đến: **Xử lý ngôn ngữ tự nhiên, Thị giác máy tính**
 * 📫 Cách liên hệ với tôi: **leminhtuan.ai.work@gmail.com**
+* WORKLOG OJT FCJ-AWS: https://youttyle-dsai.github.io/LMT.github.io/
 
 ---
 
