@@ -1,4 +1,4 @@
-# Xin chào, tôi là Lê Minh Tuấn (Youttyle-DSAI) 👋
+# Xin chào, tôi là Lê Minh Tuấn 👋
 
 <p align="center">
   <em>Một sinh viên triển đam mê về AI, Khoa học dữ liệu và tích hợp các giải pháp đám mây.</em>
