@@ -36,15 +36,6 @@ Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đa
 
 ---
 
-### 📊 Thống kê GitHub của tôi
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youttyle-DSAI&show_icons=true&theme=dark&hide_border=true" alt="Youttyle-DSAI's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youttyle-DSAI&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ### 📫 Kết nối với tôi
 
 <p align="center">
