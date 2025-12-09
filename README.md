@@ -10,7 +10,7 @@
 
 Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đang tập trung vào việc xây dựng các ứng dụng thông minh và có khả năng mở rộng. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị.
 
-* 🌱 Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision**
+* 🌱 Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision, LLM**
 * 💡 Tôi quan tâm đến: **Xử lý ngôn ngữ tự nhiên, Thị giác máy tính**
 * 📫 Cách liên hệ với tôi: **leminhtuan.ai.work@gmail.com**
 * WORKLOG OJT FCJ-AWS: [https://youttyle-dsai.github.io/LMT.github.io/](https://youttyle-dsai.github.io/TuanLM.github.io/)
