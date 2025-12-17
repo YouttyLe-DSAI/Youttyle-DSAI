@@ -1,4 +1,4 @@
-# Xin chào, tôi là Lê Minh Tuấn 👋
+# Xin chào, tôi là Lê Minh Tuấn 
 
 <p align="center">
   <em>Một sinh viên triển đam mê về AI, Khoa học dữ liệu và tích hợp các giải pháp đám mây.</em>
@@ -10,19 +10,19 @@
 
 Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đang tập trung vào việc xây dựng các ứng dụng thông minh và có khả năng mở rộng. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị.
 
-* 🌱 Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision, LLM**
-* 💡 Tôi quan tâm đến: **Xử lý ngôn ngữ tự nhiên, Thị giác máy tính**
-* 📫 Cách liên hệ với tôi: **leminhtuan.ai.work@gmail.com**
+* Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision, LLM**
+* Tôi quan tâm đến: **Xử lý ngôn ngữ tự nhiên, Thị giác máy tính**
+* Cách liên hệ với tôi: **leminhtuan.ai.work@gmail.com**
 * WORKLOG OJT FCJ-AWS: [https://youttyle-dsai.github.io/LMT.github.io/](https://youttyle-dsai.github.io/TuanLM.github.io/)
 
 ---
 
-### 🚀 Các dự án nổi bật của tôi
+### Các dự án nổi bật của tôi
 
 Đây là một số dự án tôi tự hào nhất. Bạn có thể xem chi tiết hơn trong các repo đã ghim!
 ---
 
-### 💻 Công nghệ và Công cụ (My Tech Stack)
+###  Công nghệ và Công cụ (My Tech Stack)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -36,7 +36,7 @@ Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đa
 
 ---
 
-### 📫 Kết nối với tôi
+###  Kết nối với tôi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boadyi2wwQr%2B%2BuzCa7SB4DQ%3D%3D">
