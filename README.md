@@ -1,55 +1,81 @@
-<h1 align="center">Xin chào, tôi là Lê Minh Tuấn </h1>
+<div align="center">
 
-<p align="center">
-  <em>Một AI Engineer tương lai với đam mê mãnh liệt về AI, Khoa học dữ liệu và kiến trúc giải pháp Đám mây.</em>
-</p>
+#  Hi, I'm Lê Minh Tuấn
 
----
+### AI Engineer in the Making · FPT University HCM · Class of 2025
 
-### 🔭 Về tôi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C71A36?style=for-the-badge&logo=react&logoColor=white)](https://youttyle-dsai.github.io/TuanLM.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhtuan.ai.work@gmail.com)
 
-Tôi là sinh viên năm cuối chuyên ngành Trí tuệ Nhân tạo tại trường Đại Học FPT HCM, hiện đang tập trung vào việc nghiên cứu và xây dựng các ứng dụng thông minh có khả năng mở rộng cao. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị cốt lõi cho doanh nghiệp.
-
-*  **Đang tập trung nghiên cứu:** Multi-Modal RAG, AWS Solutions, Computer Vision (MOT, Video Understanding), State Space Models (Mamba), LLM.
-*  **Lĩnh vực quan tâm:** Xử lý ngôn ngữ tự nhiên (NLP), Thị giác máy tính (CV), Tích hợp Cloud (AWS Serverless).
-*  **Worklog OJT FCJ-AWS:** [Xem chi tiết tại đây](https://youttyle-dsai.github.io/TuanLM.github.io/)
-*  **Cách liên hệ với tôi:** leminhtuan.ai.work@gmail.com
+</div>
 
 ---
 
-### 🛠 Tech Stack & Công cụ
+##  About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+I'm a final-year **Artificial Intelligence** student at **FPT University Ho Chi Minh City**, passionate about building scalable intelligent systems that turn raw data into real business value.
+
+My current focus lies at the intersection of **Multimodal AI**, **Cloud-Native Architectures**, and **Computer Vision** — with a strong belief that well-designed AI systems can solve meaningful, real-world problems.
+
+-  **Researching:** Multi-Modal RAG · State Space Models (Mamba) · LLM Fine-tuning · Multiple Object Tracking
+-  **Building with:** AWS Serverless (Lambda · S3 · Bedrock) · Scalable AI Pipelines
+-  **Exploring:** Video Understanding · Semantic Retrieval · Multimodal Embeddings
+-  **OJT Worklog (FCJ-AWS):** [View Here](https://youttyle-dsai.github.io/TuanLM.github.io/)
+---
+
+##  Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI/ML Focus Areas**
+
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00897B?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-F9A825?style=for-the-badge&logoColor=white)
 
 ---
 
-###  Các dự án nổi bật
+##  Featured Projects
 
-Dưới đây là một số dự án tiêu biểu tôi đã và đang phát triển:
+###  [AgreeMe — AI Contract Risk Analyzer](https://github.com/youttyle-dsai)
+> Serverless web system leveraging **Multi-Modal RAG** + **AWS (Lambda · S3 · Bedrock)** to extract, analyze, and flag risk clauses in civil and rental contracts for all stakeholders.
 
-* **AgreeMe (AI Contract Risk Analyzer):** Hệ thống web ứng dụng Multi-Modal RAG và các dịch vụ serverless của AWS (Lambda, S3, Bedrock) để trích xuất, phân tích và đánh giá rủi ro các điều khoản trong hợp đồng dân sự/thuê nhà cho các bên liên quan.
-* **VN-VidSearch:** Hệ thống truy xuất video ngữ nghĩa đa người dùng (Semantic Video Retrieval) dành riêng cho tiếng Việt, tập trung vào không gian đa phương thức (multimodal space) và joint-embedding search.
-* **SorcererXStreme (HuyenHocAI):** Nền tảng ứng dụng AI tích hợp kiến thức đa ngành (Tarot, Chiêm tinh, Thần số học) giúp người dùng khám phá bản thân, được xây dựng dựa trên cơ sở tri thức đã được kiểm chứng và kiến trúc RAG.
-* **Drone Object Tracking (Zalo AI Challenge 2025):** Phát triển mô hình Multiple Object Tracking (MOT) để nhận diện và theo dõi vị trí các đối tượng từ luồng video flycam trong các kịch bản cứu hộ thảm họa tự nhiên.
+###  [VN-VidSearch — Vietnamese Semantic Video Retrieval](https://github.com/youttyle-dsai)
+> A multi-user semantic video retrieval system built for the **Vietnamese language**, using multimodal joint-embedding search to bridge text queries and video content.
+
+###  [SorcererXStreme — HuyenHocAI Platform](https://github.com/youttyle-dsai)
+> An AI-powered self-discovery platform integrating **Tarot · Astrology · Numerology** knowledge bases via a verified **RAG architecture** for meaningful, evidence-grounded insights.
+
+###  [Drone Object Tracking — Zalo AI Challenge 2025](https://github.com/youttyle-dsai)
+> Developed a **Multiple Object Tracking (MOT)** model to detect and track objects from flycam video streams in **natural disaster rescue scenarios**.
 
 ---
 
-###  Kết nối với tôi
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boadyi2wwQr%2B%2BuzCa7SB4DQ%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[ĐIỀN_LINK_PORTFOLIO_CỦA_BẠN_VÀO_ĐÂY]">
-    <img src="https://img.shields.io/badge/Portfolio-C71A36?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:leminhtuan.ai.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+
+![Tuấn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youttyle-dsai&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youttyle-dsai&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is the new oil — but only if you know how to refine it."*
+
+⭐ Feel free to explore my repos and reach out for collaboration!
+
+</div>
