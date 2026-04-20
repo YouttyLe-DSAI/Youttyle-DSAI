@@ -1,79 +1,44 @@
-# Xin chào, tôi là Lê Minh Tuấn 
+<h1 align="center">Xin chào, tôi là Lê Minh Tuấn </h1>
 
 <p align="center">
-  <em>Một sinh viên triển đam mê về AI, Khoa học dữ liệu và tích hợp các giải pháp đám mây.</em>
+  <em>Một AI Engineer tương lai với đam mê mãnh liệt về AI, Khoa học dữ liệu và kiến trúc giải pháp Đám mây.</em>
 </p>
 
 ---
 
-### 🔭 Về tôi (About Me)
+### 🔭 Về tôi
 
-Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đang tập trung vào việc xây dựng các ứng dụng thông minh và có khả năng mở rộng. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị.
+Tôi là sinh viên năm cuối chuyên ngành Trí tuệ Nhân tạo tại trường Đại Học FPT HCM, hiện đang tập trung vào việc nghiên cứu và xây dựng các ứng dụng thông minh có khả năng mở rộng cao. Tôi tin vào sức mạnh của dữ liệu và luôn tìm cách biến dữ liệu thô thành những hiểu biết có giá trị cốt lõi cho doanh nghiệp.
 
-* Tôi đang tìm hiểu sâu về: **Multi-Modal RAG, AWS Solutions, Computer Vision, LLM**
-* Tôi quan tâm đến: **Xử lý ngôn ngữ tự nhiên, Thị giác máy tính**
-* Cách liên hệ với tôi: **leminhtuan.ai.work@gmail.com**
-* WORKLOG OJT FCJ-AWS: [https://youttyle-dsai.github.io/LMT.github.io/](https://youttyle-dsai.github.io/TuanLM.github.io/)
+*  **Đang tập trung nghiên cứu:** Multi-Modal RAG, AWS Solutions, Computer Vision (MOT, Video Understanding), State Space Models (Mamba), LLM.
+*  **Lĩnh vực quan tâm:** Xử lý ngôn ngữ tự nhiên (NLP), Thị giác máy tính (CV), Tích hợp Cloud (AWS Serverless).
+*  **Worklog OJT FCJ-AWS:** [Xem chi tiết tại đây](https://youttyle-dsai.github.io/TuanLM.github.io/)
+*  **Cách liên hệ với tôi:** leminhtuan.ai.work@gmail.com
 
 ---
 
-### Các dự án nổi bật của tôi
+### 🛠 Tech Stack & Công cụ
 
-Đây là một số dự án tôi tự hào nhất. Bạn có thể xem chi tiết hơn trong các repo đã ghim!
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
 ---
-<div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
-</div>
 
-<br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Outros</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-  </kbd>
-  <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
-</div>
+###  Các dự án nổi bật
 
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
+Dưới đây là một số dự án tiêu biểu tôi đã và đang phát triển:
+
+* **AgreeMe (AI Contract Risk Analyzer):** Hệ thống web ứng dụng Multi-Modal RAG và các dịch vụ serverless của AWS (Lambda, S3, Bedrock) để trích xuất, phân tích và đánh giá rủi ro các điều khoản trong hợp đồng dân sự/thuê nhà cho các bên liên quan.
+* **VN-VidSearch:** Hệ thống truy xuất video ngữ nghĩa đa người dùng (Semantic Video Retrieval) dành riêng cho tiếng Việt, tập trung vào không gian đa phương thức (multimodal space) và joint-embedding search.
+* **SorcererXStreme (HuyenHocAI):** Nền tảng ứng dụng AI tích hợp kiến thức đa ngành (Tarot, Chiêm tinh, Thần số học) giúp người dùng khám phá bản thân, được xây dựng dựa trên cơ sở tri thức đã được kiểm chứng và kiến trúc RAG.
+* **Drone Object Tracking (Zalo AI Challenge 2025):** Phát triển mô hình Multiple Object Tracking (MOT) để nhận diện và theo dõi vị trí các đối tượng từ luồng video flycam trong các kịch bản cứu hộ thảm họa tự nhiên.
+
+---
 
 ###  Kết nối với tôi
 
@@ -81,7 +46,10 @@ Tôi là sinh viên năm cuối tại trường Đại Học FPT HCM, hiện đa
   <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boadyi2wwQr%2B%2BuzCa7SB4DQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[WEBSITE_PORTFOLIO_CUA_BAN_O_DAY]">
+  <a href="[ĐIỀN_LINK_PORTFOLIO_CỦA_BẠN_VÀO_ĐÂY]">
     <img src="https://img.shields.io/badge/Portfolio-C71A36?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:leminhtuan.ai.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
