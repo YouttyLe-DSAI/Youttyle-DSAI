@@ -1,81 +1,82 @@
 <div align="center">
 
-#  Hi, I'm Lê Minh Tuấn
+# 🚀 Hi, I'm Lê Minh Tuấn
+### AI Engineer & Research Enthusiast | FPT University Class of 2025
 
-### AI Engineer in the Making · FPT University HCM · Class of 2025
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E10098?style=for-the-badge&logo=react&logoColor=white)](https://youttyle-dsai.github.io/TuanLM.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhtuan.ai.work@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-l%C3%AA-minh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C71A36?style=for-the-badge&logo=react&logoColor=white)](https://youttyle-dsai.github.io/TuanLM.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhtuan.ai.work@gmail.com)
+**"Turning raw data into scalable intelligence."**
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=youttyle-dsai&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+## 👨‍💻 About Me
+
+I am a final-year Artificial Intelligence student at **FPT University HCM**, specializing in building end-to-end intelligent systems. My expertise lies in bridging the gap between state-of-the-art research (State Space Models, Multimodal RAG) and production-ready cloud architectures.
+
+*   🔭 **Currently working on:** [AgreeMe] - An AI-driven legal risk analyzer.
+*   📚 **Researching:** Long-form Video Understanding with **Mamba (SSMs)** & Semantic Retrieval.
+*   ☁️ **Cloud Focus:** Designing Serverless AI Pipelines on **AWS**.
+*   ⚡ **Fun fact:** I believe a well-architected RAG system is more art than science.
+
+---
+
+## 🛠 Tech Stack
+
+### 🧠 AI / Machine Learning
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow) |
+| **Computer Vision** | YOLOv8/v10/v11, OpenCV, MOT (Multiple Object Tracking) |
+| **NLP & LLMs** | LangChain, LlamaIndex, RAG Core, Mamba (SSMs), Fine-tuning |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+
+### ☁️ Infrastructure & Cloud
+| Category | Tools |
+| :--- | :--- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) (Lambda, S3, Bedrock, SageMaker) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Databases** | Pinecone, Milvus (Vector DBs), PostgreSQL, MongoDB |
+
+---
+
+## 🌟 Featured Projects
+
+### ⚖️ [AgreeMe — AI Contract Analyzer](https://github.com/youttyle-dsai)
+> **Stack:** Multi-Modal RAG, AWS Bedrock, Lambda.
+> A serverless system that scans PDF contracts to identify high-risk legal clauses using advanced semantic reasoning.
+
+### 🔍 [VN-VidSearch — Semantic Video Retrieval](https://github.com/youttyle-dsai)
+> **Stack:** Multimodal Joint-Embedding, CLIP-based Search.
+> Real-time Vietnamese search engine for video content, allowing users to find specific moments via natural language.
+
+### 🔮 [SorcererXStreme — Spiritual AI](https://github.com/youttyle-dsai)
+> **Stack:** RAG, Vector Search, LLM Fine-tuning.
+> A unique platform combining Eastern/Western metaphysics with evidence-based AI insights.
+
+### 🚁 [Drone Object Tracking](https://github.com/youttyle-dsai)
+> **Award:** Zalo AI Challenge 2025.
+> Optimized MOT models for search & rescue operations using flycam footage.
+
+---
+
+## 📊 Statistics
+<div align="center">
+
+![Tuấn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youttyle-dsai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youttyle-dsai&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-##  About Me
-
-I'm a final-year **Artificial Intelligence** student at **FPT University Ho Chi Minh City**, passionate about building scalable intelligent systems that turn raw data into real business value.
-
-My current focus lies at the intersection of **Multimodal AI**, **Cloud-Native Architectures**, and **Computer Vision** — with a strong belief that well-designed AI systems can solve meaningful, real-world problems.
-
--  **Researching:** Multi-Modal RAG · State Space Models (Mamba) · LLM Fine-tuning · Multiple Object Tracking
--  **Building with:** AWS Serverless (Lambda · S3 · Bedrock) · Scalable AI Pipelines
--  **Exploring:** Video Understanding · Semantic Retrieval · Multimodal Embeddings
--  **OJT Worklog (FCJ-AWS):** [View Here](https://youttyle-dsai.github.io/TuanLM.github.io/)
----
-
-##  Tech Stack
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**AI/ML Focus Areas**
-
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00897B?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-F9A825?style=for-the-badge&logoColor=white)
-
----
-
-##  Featured Projects
-
-###  [AgreeMe — AI Contract Risk Analyzer](https://github.com/youttyle-dsai)
-> Serverless web system leveraging **Multi-Modal RAG** + **AWS (Lambda · S3 · Bedrock)** to extract, analyze, and flag risk clauses in civil and rental contracts for all stakeholders.
-
-###  [VN-VidSearch — Vietnamese Semantic Video Retrieval](https://github.com/youttyle-dsai)
-> A multi-user semantic video retrieval system built for the **Vietnamese language**, using multimodal joint-embedding search to bridge text queries and video content.
-
-###  [SorcererXStreme — HuyenHocAI Platform](https://github.com/youttyle-dsai)
-> An AI-powered self-discovery platform integrating **Tarot · Astrology · Numerology** knowledge bases via a verified **RAG architecture** for meaningful, evidence-grounded insights.
-
-###  [Drone Object Tracking — Zalo AI Challenge 2025](https://github.com/youttyle-dsai)
-> Developed a **Multiple Object Tracking (MOT)** model to detect and track objects from flycam video streams in **natural disaster rescue scenarios**.
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Tuấn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youttyle-dsai&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youttyle-dsai&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Data is the new oil — but only if you know how to refine it."*
-
-⭐ Feel free to explore my repos and reach out for collaboration!
-
+  <sub>Built with ❤️ by Lê Minh Tuấn. Last updated: May 2026</sub>
 </div>
